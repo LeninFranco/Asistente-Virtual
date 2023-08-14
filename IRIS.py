@@ -142,7 +142,7 @@ def getWikipediaInfo(search):
 def runIris():
     while(True):
         rec = listen() 
-        print(rec) 
+        print(f"Tu entrada: {rec}") 
         if name in rec: 
             rec = rec.replace(name,'') 
             if 'reproduce' in rec:
