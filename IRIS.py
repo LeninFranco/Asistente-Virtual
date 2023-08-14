@@ -1,11 +1,3 @@
-# Instalar los siguientes paquetes para el correcto funcionamiento
-# 1. pip install SpeechRecognition
-# 2. pip install pyttsx3
-# 3. pip install PyAudio
-# 4. pip install pywhatkit
-# 5. pip install wikipedia
-# 6. pip install ChatterBot==1.0.4
-
 from tkinter import messagebox #Ventanas emergentes de la libreria tkinter
 from tkinter import ttk #Extensiones de la libreria tkinter
 from tkinter import * #Todos las clases de interfaz grafica de tkinter
